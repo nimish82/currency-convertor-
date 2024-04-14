@@ -1,0 +1,23 @@
+/* .container{
+    text-align: center;
+} */
+.body{
+    background-image:url("img.avif");
+}
+.form-control{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 20%;
+    /* border-top: none; */
+
+}
+.container{
+    border: 1px solid black;
+    height: 600px;
+    text-align: center;
+    width: 500px;
+}
+.FROM{
+    height: 300px;
+
+}
